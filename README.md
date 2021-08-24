@@ -4,10 +4,6 @@
 Este código é uma extensão da Live Coding de desenvolvimento de um pequeno sistema para o gerenciamento de pessoas, com objetivo de introduzir as práticas de desenvolvimento de API REST utilizando Spring Boot.
 Referência: https://github.com/rpeleias/personapi_digital_innovation_one
 
-Endereço de execução da API na nuvem:
-
-https://hcs-dio-person-api.herokuapp.com/
-
 Foram utilizados:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
@@ -29,6 +25,11 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/people
 ```
 
+Endereço de execução da API na nuvem:
+
+```
+https://hcs-dio-person-api.herokuapp.com/
+```
 
 Tecnologias utilizadas:
 
